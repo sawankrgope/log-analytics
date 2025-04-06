@@ -28,7 +28,7 @@ A scalable pipeline using AWS services to:
 1. Logs ingested via Python → Kinesis Data Stream
 2. Streamed to S3 using Kinesis Firehose
 3. Crawled and transformed using AWS Glue
-4. Processed with Athena or EMR
+4. Processed with Athena
 5. Visualized in QuickSight
 
 ## 📂 Folder Structure
